@@ -33,3 +33,24 @@ Flexbox와 Grid를 사용해 반응형 카드 레이아웃을 구성하는 실�
 ## 🖥 결과 화면
 
 ![미리보기 이미지](./result_page_img.png)
+
+---
+
+## 🔄 Grid 버전 확장
+
+기존 Flexbox 레이아웃을 CSS Grid로 전환하여, 더 유연한 반응형 구조를 실험하였습니다.
+
+### ✅ 변경 사항
+
+- `display: flex` → `display: grid`
+- `grid-template-columns: repeat(auto-fit, minmax(260px, 1fr))` 적용
+- 미디어 쿼리 없이도 자동으로 카드가 줄바꿈 및 너비 조절
+
+### 💡 느낀 점
+
+- Flex는 단순한 일렬 정렬에 적합하지만, Grid는 레이아웃의 틀을 더 명확히 설정할 수 있어 유연함
+- auto-fit, minmax 조합은 다양한 화면 사이즈 대응에 매우 유용함
+
+## 🖥 결과 화면
+
+![미리보기 이미지](./result_page_img_grid.png)
