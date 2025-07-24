@@ -31,5 +31,4 @@ Flexbox와 Grid를 사용해 반응형 카드 레이아웃을 구성하는 실�
 - 시맨틱 태그 및 CSS 구조화 연습
 
 ## 🖥 결과 화면
-
-![alt text]({result_page_img}.png)
+result_page_img.png
