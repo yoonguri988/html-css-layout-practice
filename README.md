@@ -54,3 +54,8 @@ Flexbox와 Grid를 사용해 반응형 카드 레이아웃을 구성하는 실�
 ## 🖥 결과 화면
 
 ![미리보기 이미지](./result_page_img_grid.png)
+
+---
+
+## 🔍 변경 사항 비교 보기
+- [Flex → Grid 변경 비교](https://github.com/yoonguri988/html-css-layout-practice/compare/e1e6813...c9f4b4d)
